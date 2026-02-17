@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春愁い",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-17T11:42:22.552365Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春愁い",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_春愁い_Chevon.txt"
+    }
+  ]
+}
